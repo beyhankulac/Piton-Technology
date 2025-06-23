@@ -1,0 +1,5 @@
+{
+  "maxFiles": 7,
+  "interval": "secondly",
+  "logDirectory": "./logs"
+}

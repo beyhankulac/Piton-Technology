@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-88a94f9d5b1c5a3fab58.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "piton",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "piton::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-piton-Debug-d0f9ffc5f4b5de80860e.json",
+					"name" : "piton",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "piton_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-piton_autogen-Debug-c9fc4dc79014c557be32.json",
+					"name" : "piton_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "piton_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-piton_autogen_timestamp_deps-Debug-284676972fc858c5eefe.json",
+					"name" : "piton_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Qt/workspace/piton/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug",
+		"source" : "C:/Qt/workspace/piton"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
